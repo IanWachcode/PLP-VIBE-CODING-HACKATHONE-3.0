@@ -23,15 +23,7 @@ The **Education Guide App** is a user-friendly mobile/web application designed t
 - **Multi-Platform Support:** Available on web and mobile devices for learning anytime, anywhere.
 - **User Profiles:** Save preferences, bookmarks, and progress securely.
 - **Community Recommendations:** Share and receive resource recommendations from other learners.
+- 
+#PitchDeck Link:
+http://www.canva.com/design/DAGxd5EQCGs/57iVAt0zJDvntL8alLHuxw/edit?utm_content=DAGxd5EQCGs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-## Installation
-
-### Requirements
-
-- Node.js (version 14+)
-- npm or yarn
-- Optional: Android Studio or Xcode for mobile builds (if applicable)
-
-### Setup
-
-1. Clone the repository
