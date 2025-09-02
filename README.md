@@ -1,5 +1,6 @@
 # Education Guide App
 Group Collaborators:
+
 Ian Wachira - ianwachira90@gmail.com 
 
 Trezah Kajwang -trezahn44@gmail.com            
